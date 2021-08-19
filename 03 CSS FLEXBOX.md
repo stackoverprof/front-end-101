@@ -1,5 +1,5 @@
 ## CSS FLEXBOX
-What is the so called "front-end" actually?
+The best thing ever happened to CSS!!
 
 ![](/assets/11.png)
 ![](/assets/12.png)
