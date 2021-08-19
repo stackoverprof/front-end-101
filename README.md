@@ -31,4 +31,4 @@ An introduction to the world of Front-End Developnment
 ![](/assets/29.png)
 ![](/assets/30.png)
 
-Made with ❤ by R.Bintang Bagus Putra Angkasa and Figma
+Made with ❤ by R.Bintang Bagus Putra Angkasa and [![](https://img.shields.io/badge/FIGMA%20-%23F24E1E.svg?&style=flat&logo=figma&logoColor=white)](https://figma.com) 
