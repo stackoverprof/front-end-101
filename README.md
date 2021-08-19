@@ -1,4 +1,5 @@
-# front-end-101
+# FRONT-END-101
+An introduction to the world of Front-End Developnment
 
 ![](/assets/01.png)
 ![](/assets/02.png)
@@ -29,3 +30,5 @@
 ![](/assets/28.png)
 ![](/assets/29.png)
 ![](/assets/30.png)
+
+Made with ❤ by R.Bintang Bagus Putra Angkasa and Figma
