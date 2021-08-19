@@ -1,4 +1,4 @@
-## ANIMATION
+## JAVASCRIPT
 Here's come the real PROGRAMMING LANGUAGE
 
 ![](/assets/19.png)
