@@ -1,4 +1,4 @@
-# FRONT-END-101
+# FRONT END 101
 An introduction to the world of Front-End Development
 
 ![](/assets/01.png)
