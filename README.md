@@ -32,5 +32,5 @@ An introduction to the world of Front-End Development
 ![](/assets/29.png)
 ![](/assets/30.png)
 
-Made with ❤ and [![](https://img.shields.io/badge/FIGMA%20-%23F24E1E.svg?&style=flat&logo=figma&logoColor=white)](https://figma.com) 
+Made with ❤️ and [![](https://img.shields.io/badge/FIGMA%20-%23F24E1E.svg?&style=flat&logo=figma&logoColor=white)](https://figma.com) 
 #### by R.Bintang Bagus Putra Angkasa
